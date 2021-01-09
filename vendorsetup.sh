@@ -1,0 +1,3 @@
+add_lunch_combo omni_apollo-userdebug
+add_lunch_combo omni_apollo-eng
+
